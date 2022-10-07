@@ -25,7 +25,7 @@ Team member 1 should pull to download updates and begins here.
 
 ### Exercise 1
 
-The data will have 11 rows, one for each year.
+The data will have 55 rows, one for each year.
 
 
 
@@ -47,8 +47,7 @@ staff_long <- staff %>%
 
 ### Exercise 3
 
-*Remove this text and add your answer here.*
-
+Yes, there are 55 rows
 ```{r staff-long-inspect}
 # remove this comment and add your code here
 ```
